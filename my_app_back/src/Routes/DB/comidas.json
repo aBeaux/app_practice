@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "nombre":"Milanesa",
+        "precio":100
+    },
+    {
+        "id":2,
+        "nombre":"Empanada",
+        "precio":200
+    },
+    {
+        "id":3,
+        "nombre":"Tortilla",
+        "precio":300
+    }
+]
